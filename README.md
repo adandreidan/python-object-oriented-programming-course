@@ -25,7 +25,7 @@ Joe Marini
                             
 Senior Director of Product and Engineering
 
-                            
+- Completed Chapter 1 & 2
 
 Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/joe-marini).
 
